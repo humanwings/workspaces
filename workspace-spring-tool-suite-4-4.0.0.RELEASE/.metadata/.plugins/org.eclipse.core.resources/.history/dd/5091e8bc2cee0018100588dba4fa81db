@@ -1,9 +1,0 @@
-package cn.com.liandisys.wujian.HelloAOP;
-
-public class TimeHandler {
-
-    public void printTime()
-    {
-        System.out.println("CurrentTime = " + System.currentTimeMillis());
-    }
-}

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;cn.com.liandisys.wujian.HelloAOP&apos; to &apos;cn.com.liandisys.wujian.helloaop&apos;&#x0D;&#x0A;- Original project: &apos;HelloAOP&apos;&#x0D;&#x0A;- Original element: &apos;HelloAOP/src/cn.com.liandisys.wujian.HelloAOP&apos;&#x0D;&#x0A;- Renamed element: &apos;HelloAOP/src/cn.com.liandisys.wujian.helloaop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;cn.com.liandisys.wujian.HelloAOP&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;cn.com.liandisys.wujian.HelloAOP" name="cn.com.liandisys.wujian.helloaop" qualified="false" references="true" stamp="1542873655075" textual="false" version="1.0"/>
-</session>
