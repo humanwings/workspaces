@@ -1,0 +1,5 @@
+package cn.com.liandisys.wujian.HelloAOP;
+
+public interface HelloWorld {
+
+}

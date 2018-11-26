@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/aspectjweaver-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/junit-5.0-20150111.191949-1.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-aop-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-aspects-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-beans-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-context-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-context-indexer-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-context-support-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-core-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-expression-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-instrument-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-jcl-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-jdbc-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-jms-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-messaging-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-orm-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-oxm-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-test-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-tx-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-web-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-webflux-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-webmvc-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/develop/eclipse/library/spring-websocket-5.1.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
