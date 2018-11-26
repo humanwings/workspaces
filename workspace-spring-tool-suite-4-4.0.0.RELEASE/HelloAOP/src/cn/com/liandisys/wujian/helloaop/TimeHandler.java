@@ -28,5 +28,7 @@ public class TimeHandler {
 
         hw2.doPrint();
         System.out.println();
+        
+        System.out.println("OK");
     }
 }
