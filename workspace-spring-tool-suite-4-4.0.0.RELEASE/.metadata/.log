@@ -2177,3 +2177,29 @@ Caused by: java.lang.NullPointerException
 		src[*]: {CHILDREN}
 			cn.com.liandisys.wujian[*]: {CHILDREN}
 				[Working copy] HelloServiceTest.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-26 14:39:52.016
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	SSPdemo[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			cn.com.liandisys.wujian.spring[*]: {CHILDREN}
+				SsPdemoApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-26 14:39:52.078
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	HelloIOC[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			cn.com.liandisys.wujian[*]: {CHILDREN}
+				HelloServiceTest.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-26 14:39:52.078
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.tGGTjtIB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-26 14:39:52.094
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.tGGTjtIB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-26 14:39:52.094
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-11-26 14:39:52.110
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.tGGTjtIB => OK
